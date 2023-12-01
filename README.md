@@ -8,7 +8,7 @@ This project is a clone of DALL-E 2.0, an image generation model developed by Op
 <img src="./client/src/assets/2.jpeg" />
 
 <h2>Demo</h2>
-You can try out the game here: <a href="https://dall-e-bahaaghali000.vercel.app/">DALL-E 2.0 Clone</a>
+You can try out the App here: <a href="https://dall-e-bahaaghali000.vercel.app/">DALL-E 2.0 Clone</a>
 
 ## Features
 
